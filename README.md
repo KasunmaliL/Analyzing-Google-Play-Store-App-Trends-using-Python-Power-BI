@@ -27,3 +27,26 @@ Key Insights:
 * Reviews are highly correlated with installs — indicating user engagement drives downloads.
 * Price shows weak negative correlation with installs.
 * Most apps have ratings between 4.0 and 4.5, showing high user satisfaction.
+
+Day 3 – Power BI Dashboard
+
+Tool: Microsoft Power BI 
+Created Visuals:
+* Bar Chart: Top 10 app categories by count
+* Donut Chart: Free vs Paid app distribution
+* Line Chart: Average rating by category
+* KPI Cards: Average Rating, Total Installs
+
+What I Learned: 
+* End-to-end data analytics workflow using Python and Power BI.
+* Advanced data cleaning and transformation with Pandas.
+* Creating data visualizations and identifying patterns in large datasets.
+* Building interactive Power BI dashboards with KPIs and visuals.
+* Translating raw data into business insights and actionable takeaways.
+
+Tools & Technologies
+* Category	          Tools Used
+* Data Cleaning	      Python, Pandas, NumPy
+* Visualization	      Matplotlib, Seaborn
+* Dashboard	          Microsoft Power BI
+* Dataset	            Google Play Store Apps – Kaggle
